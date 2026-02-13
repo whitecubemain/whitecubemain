@@ -1,5 +1,7 @@
 # White Cube
 
+**Confidential AI ops for a converged world.**
+
 Agent ops + security — building in public. Partnered with **Markland**.
 
 ## Focus
